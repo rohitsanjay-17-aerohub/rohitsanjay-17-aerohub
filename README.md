@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-M.S. Aerospace Engineering Graduate from **Arizona State University** (GPA: 3.87/4.0, graduating Dec 2025), specializing in **GNC, autonomous UAV systems, and robotics software**. I bridge classical control theory with embedded C++/Python/ROS2 stacks — from Simulink models to flight-ready physical hardware.
+M.S. Aerospace Engineering Graduate from **Arizona State University** (GPA: 3.87/4.0, graduated Dec 2025), specializing in **GNC, autonomous UAV systems, and robotics software**. I bridge classical control theory with embedded C++/Python/ROS2 stacks — from Simulink models to flight-ready physical hardware.
 
 🔭 Currently working on multi-UAV safe control at ASU's Safe Robotics Lab  
 🎯 Targeting roles in: **Robotics Software Engineer · Forward Deployed Engineer · GNC Engineer · UAV Autonomy**  
