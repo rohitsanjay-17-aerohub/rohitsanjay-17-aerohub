@@ -46,17 +46,6 @@ Deployed a ROS2 node on **3 physical Crazyflie 2.1 nano-UAVs** with Lighthouse-b
 
 ---
 
-### [Bumperbot — ROS2 Robotics Software Stack (Course Project)](https://github.com/rohitsanjay-17-aerohub/bumperbot_ws)
-> *ROS2 · Odometry & Control · SLAM & Localization · Behavior Trees · Motion Planning*
-
-Built a complete ROS2 robotics stack across three phases: odometry and low-level control, mapping and localization, and planning and navigation. Implemented wheel odometry with sensor fusion and Kalman filtering for state estimation, SLAM-based mapping and localization, and behavior-tree-driven planners and executors for autonomous navigation and obstacle avoidance.
-
-[Watch the Nav2 demo](https://drive.google.com/file/d/1vR_AhagI9RF4NhfAt_DB1W1sXTq92bfy/view?usp=sharing)
-
-> Note: this repo excludes the AWS RoboMaker residential and warehouse Gazebo world assets (that pack has since been archived by AWS). Equivalent world files are available from [Automatic Addison's Gazebo/ROS2 world file collection](https://automaticaddison.com/useful-world-files-for-gazebo-and-ros-2-simulations/).
-
----
-
 ### [6-DOF Aircraft Dynamics, Trim & Stability Analysis](https://github.com/rohitsanjay-17-aerohub/6DOF-Aircraft-Simulation)
 > *MATLAB/Simulink · System Identification · Eigenvalue Analysis · MPC*
 
@@ -70,6 +59,17 @@ Built a full nonlinear rigid-body 6-DOF aircraft model in Simulink with aerodyna
 Led a 6-person team in ASU's EGR 530 (Principles of Systems Engineering) building a full ROS1 autonomy stack on the [ROSMASTER X3](https://www.yahboom.net/study/ROSMASTER-X3) (Jetson Nano, 2D LiDAR, RGBD depth camera, IMU, mecanum-wheel drive). Integrated three subsystems: Cartographer-based SLAM mapping with AMCL localization and a tuned move_base stack (Navfn/Dijkstra global planner, DWA local planner) for multi-waypoint navigation; HSV-based line following with a smart-recovery behavior that rotates in place to reacquire a lost line instead of stalling; and an 11-class YOLOv5s traffic sign detector trained on a self-generated synthetic dataset, running live onboard for real-time recognition.
 
 [Watch the full demo](https://docs.google.com/file/d/1i9JFSkMMwrphAcVNhFx-NmGoc0Qa8LJ-/preview) · [Presentation slides (PDF)](https://github.com/rohitsanjay-17-aerohub/rosmaster_x3_multiwaypoint_nav/blob/main/docs/presentation.pdf)
+
+---
+
+### [Bumperbot — ROS2 Robotics Software Stack (Course Project)](https://github.com/rohitsanjay-17-aerohub/bumperbot_ws)
+> *ROS2 · Odometry & Control · SLAM & Localization · Behavior Trees · Motion Planning and Navigation*
+
+Built a complete ROS2 robotics stack across three phases: odometry and low-level control, mapping and localization, and planning and navigation. Implemented wheel odometry with sensor fusion and Kalman filtering for state estimation, SLAM-based mapping and localization, and behavior-tree-driven planners and executors for autonomous navigation and obstacle avoidance.
+
+[Watch the Nav2 demo](https://drive.google.com/file/d/1vR_AhagI9RF4NhfAt_DB1W1sXTq92bfy/view?usp=sharing)
+
+> Note: this repo excludes the AWS RoboMaker residential and warehouse Gazebo world assets (that pack has since been archived by AWS). Equivalent world files are available from [Automatic Addison's Gazebo/ROS2 world file collection](https://automaticaddison.com/useful-world-files-for-gazebo-and-ros-2-simulations/).
 
 ---
 
