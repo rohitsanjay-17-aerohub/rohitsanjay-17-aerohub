@@ -64,7 +64,7 @@ Built a full nonlinear rigid-body 6-DOF aircraft model in Simulink with aerodyna
 
 ---
 
-### ROSMASTER X3 — Autonomous Navigation with Dynamic Object Detection & Avoidance (ROS1, Team Lead)
+### [ROSMASTER X3 — Autonomous Navigation with Dynamic Object Detection & Avoidance (ROS1, Team Lead)](https://github.com/rohitsanjay-17-aerohub/rosmaster_x3_multiwaypoint_nav/tree/main)
 > *ROS1 · Cartographer SLAM · AMCL · move_base · YOLOv5 · Team of 6 · Repo coming soon*
 
 Led a 6-person team in ASU's EGR 530 (Principles of Systems Engineering) building a full ROS1 autonomy stack on the [ROSMASTER X3](https://www.yahboom.net/study/ROSMASTER-X3) (Jetson Nano, 2D LiDAR, RGBD depth camera, IMU, mecanum-wheel drive). Integrated three subsystems: Cartographer-based SLAM mapping with AMCL localization and a tuned move_base stack (Navfn/Dijkstra global planner, DWA local planner) for multi-waypoint navigation; HSV-based line following with a smart-recovery behavior that rotates in place to reacquire a lost line instead of stalling; and an 11-class YOLOv5s traffic sign detector trained on a self-generated synthetic dataset, running live onboard for real-time recognition.
