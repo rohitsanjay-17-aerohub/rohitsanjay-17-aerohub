@@ -20,7 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-rohitsanjay--17--aerohub-181717?style=flat&logo=github)](https://github.com/rohitsanjay-17-aerohub)
 [![Email](https://img.shields.io/badge/Email-rganes13@asu.edu-D14836?style=flat&logo=gmail)](mailto:rganes13@asu.edu)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work%20(OPT)-brightgreen?style=flat)](mailto:rganes13@asu.edu)
-![Profile views](https://komarev.com/ghpvc/?username=rohitsanjay-17-aerohub&color=0A66C2&style=flat)
 
 </div>
 
@@ -33,15 +32,6 @@ M.S. Aerospace Engineering Graduate from **Arizona State University** (GPA: 3.87
 🔭 Currently working on multi-UAV safe control at ASU's Safe Robotics Lab
 🎯 Targeting roles in: **Robotics Software Engineer · Forward Deployed Engineer · GNC Engineer · UAV Autonomy**
 🌍 Authorized to work in the U.S. (OPT, no sponsorship required)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohitsanjay-17-aerohub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsanjay-17-aerohub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=rohitsanjay-17-aerohub&theme=tokyonight&hide_border=true" alt="GitHub streak" width="60%" />
-
-</div>
 
 ---
 
