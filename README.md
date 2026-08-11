@@ -163,7 +163,7 @@ Jan 2024 – Dec 2025 · Tempe, AZ
 
 **Certifications**
 - Applied Control Systems 1: Autonomous Cars, Math + PID + MPC
-- Self Driving and ROS 2, Learn by Doing! Odometry and Control
+- Self Driving and ROS 2, Learn by Doing! Odometry and Control, Mapping and Localization, Planning and Navigation
 - MATLAB Onramp (MathWorks)
 - Simulink Onramp (MathWorks)
 - SOLIDWORKS CAD Fundamentals (edX Verified Certificate)
