@@ -155,7 +155,7 @@ Implemented a linear MPC controller for trajectory tracking under actuator const
 ## 🎓 Education
 
 **M.S. Aerospace Engineering** — Arizona State University *(GPA: 3.87/4.0)*
-Jan 2024 – Dec 2025 · Tempe, AZ
+Jan 2024 – Dec 2025 · Tempe, AZ  
 *Coursework: Advanced Systems Modeling, Dynamics & Control · Vehicle Dynamics & Control · Modeling & Control of Robots · Principles of Systems Engineering · Introduction to Autonomous Vehicle Engineering · Mechatronics for Engineering Design & Manufacturing · Linear Algebra & Partial Differential Equations for Engineering · Technology Innovation Lab (aircraft smart cabin / food waste management product pitches) · Design & Analysis of Non-Linear Controls (GCBF+)*
 
 **B.E. Aeronautical Engineering** — Rajalakshmi Engineering College *(GPA: 8.17/10)*
