@@ -38,19 +38,53 @@ M.S. Aerospace Engineering Graduate from **Arizona State University** (GPA: 3.87
 ## 🛠️ Technical Stack
 
 **Languages & Tools**
-`C++` `Python` `MATLAB/Simulink` `Bash` `CMake` `Git` `Linux (Ubuntu/Debian)`
+![C++](https://img.shields.io/badge/C%2B%2B-1B263B?style=flat-square&logo=cplusplus&logoColor=00B4D8)
+![Python](https://img.shields.io/badge/Python-1B263B?style=flat-square&logo=python&logoColor=FFD43B)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%2FSimulink-1B263B?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-1B263B?style=flat-square&logo=gnubash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-1B263B?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1B263B?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux_%28Ubuntu%2FDebian%29-1B263B?style=flat-square&logo=linux&logoColor=FCC624)
 
 **GNC & Autonomy**
-`ROS1` `ROS2` `PX4` `MAVROS` `SLAM (Cartographer)` `AMCL` `NavFn/DWA` `Behavior Trees` `Motion Planning` `TF Frames`
+![ROS1](https://img.shields.io/badge/ROS1-00B4D8?style=flat-square)
+![ROS2](https://img.shields.io/badge/ROS2-00B4D8?style=flat-square&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-00B4D8?style=flat-square)
+![MAVROS](https://img.shields.io/badge/MAVROS-00B4D8?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM_%28Cartographer%29-00B4D8?style=flat-square)
+![AMCL](https://img.shields.io/badge/AMCL-00B4D8?style=flat-square)
+![NavFn/DWA](https://img.shields.io/badge/NavFn%2FDWA-00B4D8?style=flat-square)
+![Behavior Trees](https://img.shields.io/badge/Behavior_Trees-00B4D8?style=flat-square)
+![Motion Planning](https://img.shields.io/badge/Motion_Planning-00B4D8?style=flat-square)
+![TF Frames](https://img.shields.io/badge/TF_Frames-00B4D8?style=flat-square)
+![QoS](https://img.shields.io/badge/Quality_of_Service_%28QoS%29-00B4D8?style=flat-square)
 
 **Controls & Estimation**
-`PID` `LQR/LQG` `Linear MPC` `EKF/UKF` `Kalman Filter` `Madgwick Filter` `Sensor Fusion` `System ID`
+![PID](https://img.shields.io/badge/PID-0077B6?style=flat-square)
+![LQR/LQG](https://img.shields.io/badge/LQR%2FLQG-0077B6?style=flat-square)
+![Linear MPC](https://img.shields.io/badge/Linear_MPC-0077B6?style=flat-square)
+![EKF/UKF](https://img.shields.io/badge/EKF%2FUKF-0077B6?style=flat-square)
+![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-0077B6?style=flat-square)
+![Madgwick Filter](https://img.shields.io/badge/Madgwick_Filter-0077B6?style=flat-square)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-0077B6?style=flat-square)
+![System ID](https://img.shields.io/badge/System_ID-0077B6?style=flat-square)
+![Bayesian State Estimation](https://img.shields.io/badge/Bayesian_State_Estimation-0077B6?style=flat-square)
+![Probabilistic Robotics](https://img.shields.io/badge/Probabilistic_Robotics-0077B6?style=flat-square)
 
 **Perception**
-`RGBD Cameras` `YOLOv5` `OpenCV`
+![RGBD Cameras](https://img.shields.io/badge/RGBD_Cameras-FF6B35?style=flat-square)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6B35?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF6B35?style=flat-square&logo=opencv&logoColor=white)
 
 **Simulation & Hardware**
-`Gazebo (SITL/HITL)` `RViz` `Jetson Nano` `LiDAR/IMU/Camera` `FPV Drone Assembly` `Log-Based Debugging`
+![Gazebo](https://img.shields.io/badge/Gazebo_%28SITL%2FHITL%29-415A77?style=flat-square)
+![RViz](https://img.shields.io/badge/RViz-415A77?style=flat-square)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-415A77?style=flat-square)
+![LiDAR](https://img.shields.io/badge/LiDAR-415A77?style=flat-square)
+![IMU](https://img.shields.io/badge/IMU-415A77?style=flat-square)
+![Camera](https://img.shields.io/badge/Camera-415A77?style=flat-square)
+![FPV Drone Assembly](https://img.shields.io/badge/FPV_Drone_Assembly-415A77?style=flat-square)
+![Log-Based Debugging](https://img.shields.io/badge/Log--Based_Debugging-415A77?style=flat-square)
 
 ---
 
@@ -122,10 +156,17 @@ Implemented a linear MPC controller for trajectory tracking under actuator const
 
 **M.S. Aerospace Engineering** — Arizona State University *(GPA: 3.87/4.0)*
 Jan 2024 – Dec 2025 · Tempe, AZ
-*Coursework: Linear Systems Theory · Advanced Modeling & Control · Nonlinear Control Design · Flight Dynamics · Estimation Theory · Robot Kinematics & Dynamics*
+*Coursework: Advanced Systems Modeling, Dynamics & Control · Vehicle Dynamics & Control · Modeling & Control of Robots · Principles of Systems Engineering · Introduction to Autonomous Vehicle Engineering · Mechatronics for Engineering Design & Manufacturing · Linear Algebra & Partial Differential Equations for Engineering · Technology Innovation Lab (aircraft smart cabin / food waste management product pitches) · Design & Analysis of Non-Linear Controls (GCBF+)*
 
 **B.E. Aeronautical Engineering** — Rajalakshmi Engineering College *(GPA: 8.17/10)*
 2019 – 2023 · Chennai, India
+
+**Certifications**
+- Applied Control Systems 1: Autonomous Cars, Math + PID + MPC
+- Self Driving and ROS 2, Learn by Doing! Odometry and Control
+- MATLAB Onramp (MathWorks)
+- Simulink Onramp (MathWorks)
+- SOLIDWORKS CAD Fundamentals (edX Verified Certificate)
 
 ---
 
