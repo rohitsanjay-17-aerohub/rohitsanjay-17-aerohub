@@ -31,7 +31,7 @@ M.S. Aerospace Engineering Graduate from **Arizona State University** (GPA: 3.87
 
 🔭 Currently working on multi-UAV safe control at ASU's Safe Robotics Lab
 🎯 Targeting roles in: **Robotics Software Engineer · Forward Deployed Engineer · GNC Engineer · UAV Autonomy**
-🌍 Authorized to work in the U.S. (OPT, sponsorship required)
+🌍 Authorized to work in the U.S. on F-1 OPT; will require H-1B sponsorship
 
 ---
 
