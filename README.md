@@ -123,8 +123,8 @@ aerodynamics, ISA atmosphere, propulsion, equations of motion and RC joystick in
 refined without touching the rest.
 
 Validated rather than just built: longitudinal (`Cm_q`, `Cm_alpha`, `Cm_elev`) and lateral-directional
-(`Cn_r`, `Cn_beta`, `Cn_rud`) derivatives are tuned against reference flight-test data for a 10,886 kg transport
-at 240 KCAS and 35,000 ft, using bounded `fmincon` on a normalized least-squares residual. A divergent Dutch roll
+(`Cn_r`, `Cn_beta`, `Cn_rud`) derivatives are tuned against reference flight-test data at 240 KCAS and 35,000 ft
+(10,886 kg, CG at 34% MAC), using bounded `fmincon` on a normalized least-squares residual. A divergent Dutch roll
 that over-predicted sideslip amplitude by roughly 3x was corrected to close agreement in amplitude and phase.
 
 Runs in real time on a fixed-step `ode4` solver at 50 Hz with live FlightGear visualization and RC transmitter
