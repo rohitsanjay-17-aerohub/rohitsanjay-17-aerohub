@@ -120,13 +120,14 @@ Authorized to work in the U.S. on F-1 OPT; will require H-1B sponsorship.
 
 A nonlinear 6-DOF fixed-wing simulation built as **separate, reusable Simulink physics libraries** —
 aerodynamics, ISA atmosphere, propulsion, equations of motion and RC joystick input — so any single model can be
-refined without touching the rest.
+refined without touching the rest. The physics is written out from primitive Simulink blocks rather than dropped
+in from canned 6-DOF or atmosphere library blocks.
 
 Validated rather than just built: longitudinal (`Cm_q`, `Cm_alpha`, `Cm_elev`) and lateral-directional
 (`Cn_r`, `Cn_beta`, `Cn_rud`) derivatives are tuned against reference flight-test data at 240 KCAS and 35,000 ft
 (10,886 kg, CG at 34% MAC), using bounded `fmincon` on a normalized least-squares residual. Dutch roll amplitude
-error dropped from **2.1x over-prediction** (8.2° peak sideslip against 3.9° measured) to **within 5%**, tracking
-the measured traces in phase across the full 20-second record.
+error dropped from **2.7x over-prediction in sideslip and 4.8x in yaw rate** (10.6° and 21.9 °/s, against 3.9°
+and 4.6 °/s measured) to **within 10%**, tracking the measured traces in phase across the full 20-second record.
 
 Runs in real time on a fixed-step `ode4` solver at 50 Hz with live FlightGear visualization and RC transmitter
 stick inputs for pilot-in-the-loop handling-qualities assessment. Trim across airspeed, flight-path-angle and
