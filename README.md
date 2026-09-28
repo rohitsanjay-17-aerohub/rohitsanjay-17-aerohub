@@ -30,8 +30,6 @@ M.S. Aerospace Engineering from **Arizona State University** (GPA 3.87/4.0, grad
 flight dynamics in MATLAB/Simulink matched against real flight-test data, and embedded C++/Python/ROS 2 stacks
 that run on actual hardware.
 
-Currently working on multi-UAV safe control at ASU's Safe Robotics Group.
-
 Targeting roles in **Flight Simulation · GNC · Controls · Robotics Software · UAV Autonomy**.
 Authorized to work in the U.S. on F-1 OPT; will require H-1B sponsorship.
 
