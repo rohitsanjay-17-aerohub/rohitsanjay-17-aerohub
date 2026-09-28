@@ -3,7 +3,7 @@
 <!-- Banner placeholder: add <img src="assets/banner.png" width="100%" /> here once your Figma banner is exported and committed to the repo -->
 
 # Rohit Sanjay Ganesh
-### Aerospace & Robotics Engineer · Flight Simulation · GNC · Autonomous Systems
+### Aerospace & Robotics Systems Engineer
 
 ![C++](https://img.shields.io/badge/C%2B%2B-1B263B?style=flat-square&logo=cplusplus&logoColor=00B4D8)
 ![Python](https://img.shields.io/badge/Python-1B263B?style=flat-square&logo=python&logoColor=FFD43B)
@@ -225,21 +225,13 @@ debugging the propulsion signal path ahead of first flight.
 
 | Role | Organization | Period |
 |---|---|---|
-| Research Assistant (Volunteer) | ASU Safe Robotics Group | Feb 2026 – Present |
-| Deputy Project Manager (Resources) | NASA L'SPACE / Team AVATAR | Sep 2024 – Apr 2025 |
-| UAV Systems Technician (FPV) | Chennai Drone Academy | Oct – Dec 2023 |
-| Flight Test Data Intern | IIT Kanpur | Aug 2022 |
+| Robotics Systems Engineer I | Amazon | Jan 2026 – Present |
+| Deputy Project Manager of Resources | NASA L'SPACE Academy, Team A.V.A.T.A.R | Sep 2024 – Apr 2025 |
+| Flight Control Engineer | Big Bang Boom Solutions Private Limited | Jan 2022 – Dec 2023 |
 
-- **ASU Safe Robotics Group** — multi-agent safe control with graph-based control barrier functions; GNN
-  retraining on A100 hardware and ROS 2 packaging.
-- **NASA L'SPACE** — owned the life-cycle cost model for a Discovery-class Venus aerobot concept, landing within
-  0.5% of the $200M programmatic cap using NICM v9c and MCCET; ran change control for an 8-person
-  multidisciplinary team through PDR.
-- **Chennai Drone Academy** — built 5–7 custom FPV quadrotors end to end (frame, brushless propulsion, ESC
-  soldering, wiring, OSD, Betaflight setup); flight-tested failsafe recovery to 2 km over roughly 20 flight hours.
-- **IIT Kanpur** — reduced instrumented flight-test data from a one-week campaign on Cessna 206H, Piper Saratoga
-  and NAL Hansa aircraft, characterizing weight and balance, control-surface calibration and cruise/climb
-  performance; documented the methodology in a technical report.
+- **Amazon** — planned robotic workcell deployments across 6 commissioning phases and integrated sensors, actuators, and software using ROS 2, Python, and Linux; standardized commissioning procedures establishing 40 regression scenarios and resolved 27 technical integration issues.
+- **NASA L'SPACE** — built the life-cycle cost model for a Discovery-class Venus aerobot concept, producing a $198.98M estimate against a $200M programmatic cap using NICM v9c and MCCET; guided an 8-person multidisciplinary team through PDR.
+- **Big Bang Boom Solutions** — designed UAV attitude-control logic in C++ and modeled nonlinear 6-DOF aircraft dynamics in MATLAB/Simulink; connected ROS 2 navigation nodes across 3 Crazyflie quadrotors and conducted approximately 20 flight hours across 5–7 custom FPV quadrotors testing GPS return-to-home behavior up to 2 km.
 
 ---
 
