@@ -225,7 +225,7 @@ debugging the propulsion signal path ahead of first flight.
 
 | Role | Organization | Period |
 |---|---|---|
-| Robotics Systems Engineer I | Amazon | Jan 2026 – Present |
+| Robotics Systems Engineer I | Amazon | Feb 2026 – Present |
 | Deputy Project Manager of Resources | NASA L'SPACE Academy, Team A.V.A.T.A.R | Sep 2024 – Apr 2025 |
 | Flight Control Engineer | Big Bang Boom Solutions Private Limited | Jan 2022 – Dec 2023 |
 
