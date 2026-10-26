@@ -225,14 +225,16 @@ debugging the propulsion signal path ahead of first flight.
 
 | Role | Organization | Period |
 |---|---|---|
-| Robotics Systems Engineer I | Amazon | Feb 2026 – Present |
-| Deputy Project Manager of Resources | NASA L'SPACE Academy, Team A.V.A.T.A.R | Sep 2024 – Apr 2025 |
-| Flight Control Engineer | Big Bang Boom Solutions Private Limited | Jan 2022 – Dec 2023 |
+| Volunteer Research Assistant | ASU Safe Robotics Group, Arizona State University | Feb 2026 – Sep 2026 |
+| Deputy Project Manager of Resources | NASA L'SPACE Mission Concept Academy, Team A.V.A.T.A.R | Jan 2025 – Apr 2025 |
+| Chief Scientist (Team Role) | NASA L'SPACE Proposal Writing and Evaluation Experience | Aug 2024 – Dec 2024 |
+| FPV Junior Technician and Student Facilitator | Chennai Drone Academy | Oct 2023 – Dec 2023 |
+| Summer Intern, Flight Testing | Indian Institute of Technology, Kanpur | Aug 2022 |
 
-- **Amazon** — planned robotic workcell deployments across 6 commissioning phases and integrated sensors, actuators, and software using ROS 2, Python, and Linux; standardized commissioning procedures establishing 40 regression scenarios and resolved 27 technical integration issues.
-- **NASA L'SPACE** — built the life-cycle cost model for a Discovery-class Venus aerobot concept, producing a $198.98M estimate against a $200M programmatic cap using NICM v9c and MCCET; guided an 8-person multidisciplinary team through PDR.
-- **Big Bang Boom Solutions** — designed UAV attitude-control logic in C++ and modeled nonlinear 6-DOF aircraft dynamics in MATLAB/Simulink; connected ROS 2 navigation nodes across 3 Crazyflie quadrotors and conducted approximately 20 flight hours across 5–7 custom FPV quadrotors testing GPS return-to-home behavior up to 2 km.
-
+- **ASU Safe Robotics Group:** reproduced published GCBF+ (graph control barrier function) results on Crazyflie dynamics, retraining the networks on ASU's SOL A100 GPU supercomputer: 100% safety at zero cost at 4, 8 and 16 agents versus 91.7% and 0.67 for a nominal controller, with about 6 ms inference for 16 agents, packaged as a ROS 2 node.
+- **NASA L'SPACE:** built the life-cycle cost model for a NASA Discovery-class Venus aerobot concept using NICM v9c and MCCET, landing within 0.5% of the $200M programmatic cost cap; managed resources and change control for an 8-person team through PDR.
+- **Chennai Drone Academy:** built and maiden-flew 5–7 custom FPV quadrotors (about 20 flight hours) and ran build and flying workshops for 30+ students.
+- **IIT Kanpur:** ran flight experiments on a Cessna 206H, Piper Saratoga and NAL Hansa: weight and CG estimation, control-surface calibration with inclinometers and a data acquisition system, drag polar estimation, and neutral point determination.
 ---
 
 ## Education
